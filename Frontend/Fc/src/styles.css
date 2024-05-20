@@ -1,0 +1,9 @@
+
+
+body {
+    min-width: 400px;
+
+    background: url("assets/img/Bg.jpg"); 
+
+    background-size: cover;
+}
